@@ -13,3 +13,7 @@ This section highlights the percentage of delayed flights from the chosen airpor
  
 ### Predictive Analytics: 
 This tab is to predict the delay times of the flights based on the historical data. The output for this tab is based on the model being trained using logistic regression Functionality has been built to accept Airline operator name, Month, Air time, Distance between the ports and hour in the day, with the model predicting delay time of each flight, with Logistic Regression in the background. 
+
+### Dataset:
+
+Dataset has been taken from the Bureau of Transportation Statistics website, https://www.transtats.bts.gov/Tables.asp?DB_ID=120 and the data used was "Reporting Carrier On-Time Performance (1987-present)". For optimal speed the data was limited to the year 2019. Scale-up can be done on the cloud where more computing power can be leveraged.
